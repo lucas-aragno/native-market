@@ -22,3 +22,7 @@ Run the app in the Simulator:
 ```
 react-native run-ios
 ```
+
+You should get something like:\
+
+[!demo](docs/demo.png)
