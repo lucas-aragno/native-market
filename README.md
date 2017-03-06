@@ -1,5 +1,5 @@
 ## How to run it?
-Install `react-native` in your system if you didn't yet:
+Install `react-native` in your system:
 
 ```
 npm install -g react-native-cli
