@@ -25,4 +25,4 @@ react-native run-ios
 
 You should get something like:
 
-[!demo](github.com/lucas-aragno/native-market/docs/demo.png)
+![demo](github.com/lucas-aragno/native-market/docs/demo.png)
